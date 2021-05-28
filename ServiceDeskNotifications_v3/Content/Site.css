@@ -7,6 +7,11 @@ body {
  
 }
 
+input{
+
+    width: 100px;
+}
+
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
 .body-content {
