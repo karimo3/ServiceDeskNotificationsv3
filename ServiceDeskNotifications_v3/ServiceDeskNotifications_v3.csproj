@@ -108,8 +108,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\ddc-logo-ad.png" />
+    <Content Include="images\ddc-notify-ad.png" />
     <Content Include="images\ddc-notify-logo.png" />
+    <Content Include="images\lg-notify-logo.png" />
+    <Content Include="images\logo-89.png" />
+    <Content Include="images\logo-notify-img.png" />
     <Content Include="images\nyc-ddc-logo-dark.png" />
+    <Content Include="images\nyc-ddc-logo.png" />
     <Content Include="images\nycddclogo.png" />
     <Content Include="Notifications.aspx" />
     <Content Include="Contact.aspx" />
