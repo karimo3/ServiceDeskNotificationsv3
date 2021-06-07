@@ -32,7 +32,7 @@ namespace ServiceDesk_Notificationsv3
             InitialSessionState iss = InitialSessionState.CreateDefault2();
             // Initialize PowerShell Engine
             var shell = PowerShell.Create(iss);
-            shell.AddScript(File.ReadAllText("C:\\Users\\notification\\Documents\\psballoontipsexample.ps1"));
+            shell.AddScript(File.ReadAllText("C:\\Users\\kokar\\Documents\\psballoontipsexample.ps1"));
             shell.AddArgument(title);
             shell.AddArgument(body);
             //shell.AddArgument(cpu);

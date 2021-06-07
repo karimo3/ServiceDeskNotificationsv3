@@ -3,38 +3,37 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <h1>DDC NOTIFY</h1>
+        <p class="lead">DDC Notify is a web application used to send messages to internal DDC Users.</p>
+        <p><a runat="server" href="~/Notifications" class="btn btn-primary btn-lg">Send a message &raquo;</a></p>
     </div>
 
     <div class="row">
         <div class="col-md-4">
-            <h2>Getting started</h2>
+            <h2>Faster response</h2>
             <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
+                DDC NOTIFY will serve as a bridge between users and IT in order to ensure users are notified of any pertinent information at all times.
             </p>
             <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Get more libraries</h2>
-            <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
+                <a class="btn btn-default" href="#">Learn more &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Web Hosting</h2>
+            <h2>Better Communication</h2>
             <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
+                IT will now have better ways of notifying its users by creating new methods of communication.
             </p>
             <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+                <a class="btn btn-default" href="#">Learn more &raquo;</a>
+            </p>
+        </div>
+        <div class="col-md-4">
+            <h2>Reduce Service Desk calls</h2>
+            <p>
+                Creating a better way of communication for important notifications will reduce Service Desk calls and repeated information.
+            </p>
+            <p>
+                <a class="btn btn-default" href="#">Learn more &raquo;</a>
             </p>
         </div>
     </div>
